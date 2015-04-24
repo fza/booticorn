@@ -1,6 +1,6 @@
 {
   "name": "booticorn",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "App-booting unicorn on steroids",
   "private": true,
   "repository": {
@@ -32,6 +32,8 @@
     "js-yaml": "~3.2.7",
     "lodash": "~3.6.0",
     "methods": "~1.1.1",
+    "minimatch": "~2.0.4",
+    "minimist": "~1.1.1",
     "recursive-readdir": "~1.2.1",
     "swig": "~1.4.2",
     "winston": "~1.0.0"
