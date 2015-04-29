@@ -1,6 +1,6 @@
 {
   "name": "booticorn",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "App-booting unicorn on steroids",
   "private": true,
   "repository": {
