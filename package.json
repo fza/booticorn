@@ -29,7 +29,7 @@
     "express": "~4.12.3",
     "express-winston": "~0.3.0",
     "findup-sync": "~0.2.1",
-    "js-yaml": "~3.2.7",
+    "js-yaml": "~3.14.0",
     "lodash": "~3.6.0",
     "methods": "~1.1.1",
     "minimatch": "~2.0.4",
